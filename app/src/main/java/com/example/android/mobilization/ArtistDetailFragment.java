@@ -15,7 +15,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.android.mobilization.dummy.DummyContent;
 
 import java.util.ArrayList;
 import java.util.HashMap;
